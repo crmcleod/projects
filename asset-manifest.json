@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/projects/static/css/main.68f9bdcd.chunk.css",
-    "main.js": "/projects/static/js/main.044dd36c.chunk.js",
-    "main.js.map": "/projects/static/js/main.044dd36c.chunk.js.map",
+    "main.js": "/projects/static/js/main.829da104.chunk.js",
+    "main.js.map": "/projects/static/js/main.829da104.chunk.js.map",
     "runtime-main.js": "/projects/static/js/runtime-main.05ffa81e.js",
     "runtime-main.js.map": "/projects/static/js/runtime-main.05ffa81e.js.map",
     "static/js/2.3f159417.chunk.js": "/projects/static/js/2.3f159417.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.68f9bdcd.chunk.css.map": "/projects/static/css/main.68f9bdcd.chunk.css.map",
     "static/js/2.3f159417.chunk.js.LICENSE.txt": "/projects/static/js/2.3f159417.chunk.js.LICENSE.txt",
     "static/media/burgers.84b4e329.jpg": "/projects/static/media/burgers.84b4e329.jpg",
-    "static/media/codebreakers.12e5177c.png": "/projects/static/media/codebreakers.12e5177c.png",
+    "static/media/codebreakers1.b0a5fa1e.png": "/projects/static/media/codebreakers1.b0a5fa1e.png",
     "static/media/escape.52f40449.png": "/projects/static/media/escape.52f40449.png",
     "static/media/friendo.9d194348.png": "/projects/static/media/friendo.9d194348.png",
     "static/media/logo.fa0212fe.svg": "/projects/static/media/logo.fa0212fe.svg",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.05ffa81e.js",
     "static/js/2.3f159417.chunk.js",
     "static/css/main.68f9bdcd.chunk.css",
-    "static/js/main.044dd36c.chunk.js"
+    "static/js/main.829da104.chunk.js"
   ]
 }
