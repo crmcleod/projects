@@ -8,6 +8,7 @@ import mh from '../assets/mh.jpg'
 import pace from '../assets/pace.png'
 import quizzo from '../assets/quizzo.png'
 import seenit from '../assets/seenit.png'
+import roz from '../assets/roz.png'
 
 const PortfolioContainer = () => {
     return(
@@ -78,6 +79,14 @@ const PortfolioContainer = () => {
                 gitHub={ 'https://github.com/crmcleod/poll_quiz_generator' }
                 additionalStyle={ 'quizzo' }
                 deployment={ 'https://baypluzz.herokuapp.com/' }
+            />
+            <br></br>
+            <ProjectCard 
+                title={ 'Rosalind Erskine - Journalism Portfolio' }
+                body={ `A portfolio website to show off a journalist's extensive work.` }
+                image={ roz }
+                additionalStyle={ 'roz-web' }
+                deployment={ 'https://roz-web.herokuapp.com/' }
             />
         </div>
     )
